@@ -1,5 +1,3 @@
-## ChatGPT Replied:
-
 Here is a **clean + complete + ready-to-run** command script that installs EVERYTHING you need for Flutter Android development **WITHOUT Android Studio**, using ONLY command-line tools.
 
 ⚡ Works on Windows CMD or PowerShell  
@@ -162,16 +160,4 @@ Check:
 * * *
 
 🎉 DONE — Your Android environment is 100% installed
-====================================================
-
-No Android Studio needed!
-
-* * *
-
-👉 Want me to give you a **single .BAT script** that installs everything automatically?
-=======================================================================================
-
-Just say: **“generate full install.bat”**
-
----
 
